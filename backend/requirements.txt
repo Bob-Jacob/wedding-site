@@ -1,0 +1,8 @@
+Django>=5.1,<6.0
+fastapi>=0.115
+uvicorn[standard]>=0.30
+psycopg[binary]>=3.2
+dj-database-url>=2.2
+python-dotenv>=1.0
+whitenoise>=6.7
+python-multipart>=0.0.9
